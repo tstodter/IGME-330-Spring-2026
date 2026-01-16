@@ -12,7 +12,7 @@
   - Google Fonts integration
   - External JS and CSS files properly organized
 
-## In class Tuesday (Week 2A)
+## In class Wednesday (Week 2A)
 
 - **Take Practice Quiz: JavaScript Review (aka 2A)** - 5-10 minutes at start of class
   - Ungraded practice quiz
@@ -27,16 +27,16 @@
   - JS Functions (arrow functions, parameters, scope)
   - [WAT video](https://www.destroyallsoftware.com/talks/wat) (at about 1:21)
 
-## Between Tuesday and Thursday
+## Between Wednesday and Friday
 
 - **Start Exercise: More Greeter**
 
 - **Take Study Quiz: Boolean coercion, NaN, Comparison (aka 2B)**
   - First real Study Quiz (worth 10% of grade)
   - You have 3 attempts
-  - Take first attempt before Thursday's class
+  - Take first attempt before Friday's class
 
-## In class Thursday (Week 2B)
+## In class Friday (Week 2B)
 
 - **ES6 Module Pattern introduction**
   - Learn about JavaScript modules
