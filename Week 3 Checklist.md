@@ -30,11 +30,7 @@
   - Complete starter file exercises
 
 ## Before Week 4
-
-- **Take Home Practice Quiz** - 1-hour time limit
-  - Multiple attempts allowed
-  - Answers reviewed in next class
-  - Good practice for skills assessment
+- Nothing, work ahead on the fetch & parsing exercise or HW1: Ultimate Technobable due next week if you like
 
 ## File Path Reminder
 
