@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <title>Technobabble Generator</title>
+  <link rel="stylesheet" href="styles/main.css" />
+  <script type="module" src="src/main.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Technobabble Generator</h1>
+  </header>
+
+  <main>
+    <p id="output">Loading...</p>
+    <button id="btn-gen-1">Generate!</button>
+    <button id="btn-gen-5" class="wide-only">Generate 5!</button>
+  </main>
+
+  <div id="history-section" class="hidden">
+    <div id="history-header">
+      <h2>History</h2>
+      <button id="btn-clear-history">Clear</button>
+    </div>
+    <ul id="history-list"></ul>
+  </div>
+
+  <footer>
+    <p>Technobabble &mdash; IGME 330</p>
+    <p id="stats"></p>
+  </footer>
+</body>
+</html>

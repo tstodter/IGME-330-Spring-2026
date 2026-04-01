@@ -1,0 +1,103 @@
+body {
+  font-family: sans-serif;
+  padding: 1.5rem;
+  background: #f5f5f5;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: white;
+  background-color: darkblue;
+  padding: .5rem .3rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+#output {
+  font-size: 1.5em;
+  margin: 1rem 0;
+  padding: .8rem;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  min-height: 2em;
+}
+
+button {
+  padding: .4rem 1rem;
+  cursor: pointer;
+  font-size: 1.2em;
+  background: darkblue;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #00008b;
+  opacity: 0.85;
+}
+
+#controls {
+  display: flex;
+  gap: .5rem;
+}
+
+#history-section {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ccc;
+}
+
+#history-header {
+  display: flex;
+  align-items: center;
+  gap: .8rem;
+  margin-bottom: .5rem;
+}
+
+#history-header h2 {
+  font-size: 1.1em;
+  margin: 0;
+}
+
+#btn-clear-history {
+  font-size: .75em;
+  padding: .2rem .6rem;
+  background: #888;
+}
+
+#btn-clear-history:hover {
+  background: #666;
+}
+
+#history-list {
+  list-style: none;
+  padding: 0;
+}
+
+#history-list li {
+  font-size: .9em;
+  color: #555;
+  padding: .25rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+footer {
+  font-family: courier;
+  font-style: italic;
+  font-size: .85rem;
+  color: gray;
+  margin-top: 1.5rem;
+  border-top: 1px solid #ccc;
+  padding-top: .5rem;
+}
+
+.wide-only { display: none; }
+.hidden { display: none; }
+
+@media (min-width: 1408px) {
+  .wide-only { display: inline; }
+}
